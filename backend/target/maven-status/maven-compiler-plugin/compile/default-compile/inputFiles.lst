@@ -1,0 +1,10 @@
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\config\WebConfig.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\model\Patient.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\service\EmergencyQueueService.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\EmergencyQueueApplication.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\repository\PatientRepository.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\model\QueueStats.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\config\GlobalExceptionHandler.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\controller\PatientController.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\model\ApiResponse.java
+C:\Users\Dell\Downloads\hospital-emergency-queue\hospital-emergency-queue\backend\src\main\java\com\hospital\emergency\model\PatientDTO.java
